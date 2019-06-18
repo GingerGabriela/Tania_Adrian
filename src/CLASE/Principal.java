@@ -4,7 +4,7 @@ public class Principal {
 
 	
 	public void grabarComerciales() {
-		
+		String comerciales="";
 	}
 	
 	public void evaluaComercial(int comer) {
@@ -15,6 +15,6 @@ public class Principal {
 		
 		
 	}
-	
+	int num=9;
 	
 }
